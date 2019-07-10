@@ -1,1 +1,1 @@
-# GeneMarker Identification With kernal MMD and Information Entropy algorithm
+# Gene Marker Identification With kernal MMD and Information Entropy algorithm
